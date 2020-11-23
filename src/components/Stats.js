@@ -11,7 +11,7 @@ const Stats = ({users}) => {
             <Td to={`/users/${user.id}`}>{user.gender}</Td>
             <Td to={`/users/${user.id}`}>{user.ip_address}</Td>
         </tr>
-    ))
+    ));
 
     return (
         <table className='table table-striped table-bordered table-hover table-sm'>

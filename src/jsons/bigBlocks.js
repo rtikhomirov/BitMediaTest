@@ -2,7 +2,7 @@ export default [
     {
         'id' : 1,
         'title' : 'Basic',
-        'description' : 'Push Notifications\n' +
+        'description' : 'Push 1Notifications\n' +
             'Data Transfer\n' +
             'SQL Database\n' +
             'Search & SEO Analytics\n' +
